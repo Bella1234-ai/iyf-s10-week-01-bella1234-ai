@@ -1,4 +1,4 @@
-# Week 10:     f-s10-week-01-bella1234-ai
+# Week 10:     iyf-s10-week-01-bella1234-ai
 ## Author
 - **Name:** ISABELLAH SIMIYU
 - **GitHub:** [@Bella 1234](https://Bella1234-ai/iyf-s10-week-01-bella1234-ai/edit/main/README.md)
