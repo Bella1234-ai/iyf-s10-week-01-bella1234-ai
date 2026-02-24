@@ -29,6 +29,8 @@ To include picture so that it can be shown in real live
 ## Screenshots (optional)
 ![Screenshot description](path/to/screenshot.png)
 <img width="955" height="490" alt="Capture" src="https://github.com/user-attachments/assets/7a4c5741-61e3-46ad-a1cb-30b3f1ec5f97" />
+<img width="837" height="499" alt="Captureb" src="https://github.com/user-attachments/assets/8a85b509-46fa-4ee3-aebd-31d0c6cf58ce" />
+
 
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
